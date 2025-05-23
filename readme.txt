@@ -6,7 +6,7 @@ Requires at least: 5.9
 Tested up to: 6.8
 Requires PHP: 7.4
 Stable tag: 1.0.0
-Version: 1.0.0
+Version: 1.0.1
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: editor-style, right-sidebar, custom-menu, custom-logo, custom-colors, featured-images, block-patterns, sticky-post, threaded-comments
