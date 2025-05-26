@@ -1,4 +1,4 @@
-=== Trend Business ===
+=== Trend Business Pro===
 
 Contributors: trendthemeswp
 Author: Trendthemeswp
@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: editor-style, right-sidebar, custom-menu, custom-logo, custom-colors, featured-images, block-patterns, sticky-post, threaded-comments
 
 == Description ==
-Trend Business is a dynamic, full-site editing WordPress theme built to effortlessly integrate with WooCommerce. This theme is meticulously crafted for the WooCommerce and WordPress plugin ecosystem. Its exceptional flexibility makes it perfect for a wide range of online store niches, such as fashion, technology, healthcare products, home furnishings, sports gear, interior design, jewelry, and beyond. Check out the live demo to experience its full potential.  Check the real demo:  https://demos.trendthemeswp.com/trend-business
+Trend Business Pro is a dynamic, full-site editing WordPress theme built to effortlessly integrate with WooCommerce. This theme is meticulously crafted for the WooCommerce and WordPress plugin ecosystem. Its exceptional flexibility makes it perfect for a wide range of online store niches, such as fashion, technology, healthcare products, home furnishings, sports gear, interior design, jewelry, and beyond. Check out the live demo to experience its full potential.  Check the real demo:  https://demos.trendthemeswp.com/trend-business
 
 == Installation ==
 

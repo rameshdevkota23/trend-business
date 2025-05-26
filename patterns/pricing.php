@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Pricing
- * Slug: trend-business/pricing
- * Categories: trend-business
+ * Slug: trend-business-pro/pricing
+ * Categories: trend-business-pro
  *
  * @package Trend Business
  * @since 1.0.0
@@ -15,11 +15,11 @@
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"48px"}}} -->
-<h2 class="wp-block-heading has-text-align-center" style="font-size:48px"><?php echo esc_html__( 'View our pricing plans', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center" style="font-size:48px"><?php echo esc_html__( 'View our pricing plans', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|70"}}}} -->
-<p class="has-text-align-center" style="margin-bottom:var(--wp--preset--spacing--70)"><?php echo esc_html__( 'Elementum quia fugit cum euismod, varius hymenaeos.', 'trend-business' ); ?></p>
+<p class="has-text-align-center" style="margin-bottom:var(--wp--preset--spacing--70)"><?php echo esc_html__( 'Elementum quia fugit cum euismod, varius hymenaeos.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:columns -->
@@ -30,40 +30,40 @@
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"0","padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50"}},"color":{"background":"#f3f2f2"},"border":{"radius":"11px"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-background" style="border-radius:11px;background-color:#f3f2f2;padding-right:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"20px"}}} -->
-<h2 class="wp-block-heading has-text-align-center" style="font-size:20px"><?php echo esc_html__( 'BASIC', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center" style="font-size:20px"><?php echo esc_html__( 'BASIC', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"48px"}}} -->
-<p class="has-text-align-center" style="font-size:48px"><?php echo esc_html__( '$100', 'trend-business' ); ?></p>
+<p class="has-text-align-center" style="font-size:48px"><?php echo esc_html__( '$100', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Minim recusandae, volutpat magna, class, adipiscing, consec.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Minim recusandae, volutpat magna, class, adipiscing, consec.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"> <?php echo esc_html__( 'Choose Plans', 'trend-business' ); ?></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"> <?php echo esc_html__( 'Choose Plans', 'trend-business-pro' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
@@ -76,16 +76,16 @@
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"0","padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50"}},"color":{"background":"#5733ff"},"border":{"radius":"11px"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-background" style="border-radius:11px;background-color:#5733ff;padding-right:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"20px"},"color":{"text":"#fffffe"},"elements":{"link":{"color":{"text":"#fffffe"}}}}} -->
-<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color" style="color:#fffffe;font-size:20px"><?php echo esc_html__( 'STANDARD', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center has-text-color has-link-color" style="color:#fffffe;font-size:20px"><?php echo esc_html__( 'STANDARD', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"48px"},"color":{"text":"#fffffe"},"elements":{"link":{"color":{"text":"#fffffe"}}}}} -->
-<p class="has-text-align-center has-text-color has-link-color" style="color:#fffffe;font-size:48px"><?php echo esc_html__( '$250', 'trend-business' ); ?></p>
+<p class="has-text-align-center has-text-color has-link-color" style="color:#fffffe;font-size:48px"><?php echo esc_html__( '$250', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#fffffe"},"elements":{"link":{"color":{"text":"#fffffe"}}}}} -->
-<p class="has-text-align-center has-text-color has-link-color" style="color:#fffffe"><?php echo esc_html__( 'Minim recusandae, volutpat magna, class, adipiscing, consec.', 'trend-business' ); ?></p>
+<p class="has-text-align-center has-text-color has-link-color" style="color:#fffffe"><?php echo esc_html__( 'Minim recusandae, volutpat magna, class, adipiscing, consec.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
@@ -97,19 +97,19 @@
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
@@ -120,40 +120,40 @@
 <div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"blockGap":"0","padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50"}},"color":{"background":"#f3f2f2"},"border":{"radius":"11px"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-background" style="border-radius:11px;background-color:#f3f2f2;padding-right:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--50)"><!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0","top":"0","bottom":"0"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"20px"}}} -->
-<h2 class="wp-block-heading has-text-align-center" style="font-size:20px"><?php echo esc_html__( 'PREMIUM', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center" style="font-size:20px"><?php echo esc_html__( 'PREMIUM', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"48px"}}} -->
-<p class="has-text-align-center" style="font-size:48px"><?php echo esc_html__( '$180', 'trend-business' ); ?></p>
+<p class="has-text-align-center" style="font-size:48px"><?php echo esc_html__( '$180', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Minim recusandae, volutpat magna, class, adipiscing, consec.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Minim recusandae, volutpat magna, class, adipiscing, consec.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"> <?php echo esc_html__( 'Choose Plans', 'trend-business' ); ?></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"> <?php echo esc_html__( 'Choose Plans', 'trend-business-pro' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Conubia fuga irure ab primis.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>

@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Siderbar
- * Slug: trend-business/sidebar
- * Categories: trend-business
+ * Slug: trend-business-pro/sidebar
+ * Categories: trend-business-pro
  *
  * @package Trend Business
  * @since 1.0.0
@@ -28,7 +28,7 @@
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading"><?php echo esc_html__( 'Recent post', 'trend-business' ); ?></h4>
+<h4 class="wp-block-heading"><?php echo esc_html__( 'Recent post', 'trend-business-pro' ); ?></h4>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"25px"} -->
@@ -60,7 +60,7 @@
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading"><?php echo esc_html__( 'Tags', 'trend-business' ); ?></h4>
+<h4 class="wp-block-heading"><?php echo esc_html__( 'Tags', 'trend-business-pro' ); ?></h4>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"25px"} -->
@@ -80,7 +80,7 @@
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading"><?php echo esc_html__( 'Categories', 'trend-business' ); ?></h4>
+<h4 class="wp-block-heading"><?php echo esc_html__( 'Categories', 'trend-business-pro' ); ?></h4>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"height":"25px"} -->

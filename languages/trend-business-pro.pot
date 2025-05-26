@@ -1,0 +1,899 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Trend Business Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-26 07:13+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.1; php-8.1.10\n"
+"X-Domain: trend-business-pro"
+
+#: patterns/pricing.php:37
+msgid "$100"
+msgstr ""
+
+#: patterns/pricing.php:127
+msgid "$180"
+msgstr ""
+
+#: patterns/pricing.php:83
+msgid "$250"
+msgstr ""
+
+#: patterns/banner-pro.php:18 patterns/header-front.php:18
+#: patterns/header-pro.php:19
+msgid "+1987 123456"
+msgstr ""
+
+#: patterns/services.php:101
+msgid "03"
+msgstr ""
+
+#: patterns/services.php:127
+msgid "04"
+msgstr ""
+
+#: patterns/services.php:175
+msgid "06"
+msgstr ""
+
+#: patterns/users.php:49 patterns/users.php:59 patterns/users.php:71
+#: patterns/users.php:81
+msgid "33k+"
+msgstr ""
+
+#: patterns/hidden-404.php:15
+msgid "404"
+msgstr ""
+
+#: patterns/aboutus.php:21 patterns/footer.php:52 patterns/footer.php:100
+msgid "About Us"
+msgstr ""
+
+#: patterns/users.php:53 patterns/users.php:63 patterns/users.php:75
+#: patterns/users.php:85
+msgid "Active Users around the world"
+msgstr ""
+
+#: functions.php:127
+msgid "Admin Icon"
+msgstr ""
+
+#: patterns/team-members.php:78
+msgid "Administrative Officer"
+msgstr ""
+
+#: patterns/gallery.php:34
+msgid "All"
+msgstr ""
+
+#: patterns/services.php:64
+msgid "Analysis"
+msgstr ""
+
+#: patterns/featured.php:32 patterns/featured.php:46
+msgid "Architecto autem facilis conse"
+msgstr ""
+
+#: patterns/hidden-404.php:28
+msgid "Back to Home"
+msgstr ""
+
+#: patterns/pricing.php:33
+msgid "BASIC"
+msgstr ""
+
+#: patterns/two-column.php:24 patterns/two-column.php:40
+msgid "Beautiful website design with modern UI / UX"
+msgstr ""
+
+#: patterns/blogs-left-sidebar.php:14
+msgid "Blogs with Left Sidebar"
+msgstr ""
+
+#: patterns/blogs-nosidebar.php:14
+msgid "Blogs with No Sidebar"
+msgstr ""
+
+#: patterns/blogs-right-sidebar.php:15
+msgid "Blogs with Right Sidebar"
+msgstr ""
+
+#: patterns/services.php:162
+msgid "Brand Development"
+msgstr ""
+
+#: patterns/gallery.php:34
+msgid "Branding"
+msgstr ""
+
+#: patterns/blogs-left-sidebar.php:93 patterns/blogs-right-sidebar.php:130
+#: patterns/sidebar.php:83
+msgid "Categories"
+msgstr ""
+
+#: patterns/aboutus.php:88
+msgid "CEO and Founder"
+msgstr ""
+
+#: patterns/pricing.php:47 patterns/pricing.php:137
+msgid "Choose Plans"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Contrast"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Secondary Background"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Table Line"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Theme"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Transparent"
+msgstr ""
+
+#: patterns/portfolio.php:41 patterns/portfolio.php:65
+#: patterns/portfolio.php:89
+msgid "Commercial Project"
+msgstr ""
+
+#: patterns/features.php:107
+msgid "Competitiveness"
+msgstr ""
+
+#: patterns/footer.php:108
+msgid "Conditions"
+msgstr ""
+
+#: patterns/banner-pro.php:78 patterns/footer.php:60 patterns/footer.php:112
+msgid "Contact Us"
+msgstr ""
+
+#: patterns/pricing.php:54 patterns/pricing.php:58 patterns/pricing.php:62
+#: patterns/pricing.php:66 patterns/pricing.php:100 patterns/pricing.php:104
+#: patterns/pricing.php:108 patterns/pricing.php:112 patterns/pricing.php:144
+#: patterns/pricing.php:148 patterns/pricing.php:152 patterns/pricing.php:156
+msgid "Conubia fuga irure ab primis."
+msgstr ""
+
+#: patterns/footer.php:84
+msgid "Cookies Policy"
+msgstr ""
+
+#: patterns/featured.php:42
+msgid "Create"
+msgstr ""
+
+#: patterns/advance-team.php:25
+msgid "Creative Team Member"
+msgstr ""
+
+#: patterns/banner-pro.php:67
+msgid "Creativity"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Custom template name"
+msgid "Archive Product"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Left)"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Right)"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Custom template name"
+msgid "Single Product"
+msgstr ""
+
+#: patterns/gallery.php:34
+msgid "Design"
+msgstr ""
+
+#: patterns/gallery.php:34
+msgid "Development"
+msgstr ""
+
+#: patterns/services.php:114
+msgid "Digital Transformation Strategy"
+msgstr ""
+
+#: patterns/banner-pro.php:78 patterns/banner.php:50
+msgid "Discover Now"
+msgstr ""
+
+#: patterns/advance-team.php:50 patterns/advance-team.php:78
+#: patterns/advance-team.php:106 patterns/advance-team.php:134
+msgid ""
+"dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae "
+"inventore"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Primary and Contrast"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Secondary and primary"
+msgstr ""
+
+#: patterns/portfolio.php:37 patterns/portfolio.php:61
+#: patterns/portfolio.php:85
+msgid "Electric System"
+msgstr ""
+
+#: patterns/testimonials.php:24
+msgid "Elementum quia fugit cum euismod, varius hymenaeos"
+msgstr ""
+
+#: patterns/blogs.php:22 patterns/pricing.php:22
+msgid "Elementum quia fugit cum euismod, varius hymenaeos."
+msgstr ""
+
+#: patterns/contact.php:48
+msgid "Email"
+msgstr ""
+
+#: patterns/banner-pro.php:67
+msgid "Empowering Through"
+msgstr ""
+
+#: patterns/services.php:25
+msgid "Empowering Your Success"
+msgstr ""
+
+#: inc/tgm-plugin/tgmpa-hook.php:64
+msgid "Essential Blocks"
+msgstr ""
+
+#: patterns/gallery.php:25
+msgid "Explore our beautiful gallery"
+msgstr ""
+
+#: patterns/services.php:88
+msgid "Financial Consulting Solutions"
+msgstr ""
+
+#: patterns/contact.php:32
+msgid "First Name "
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Hind"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Monospace"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Serif"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "System"
+msgstr ""
+
+#: patterns/attributes.php:24 patterns/attributes.php:38
+#: patterns/attributes.php:52
+msgid "Free Delivery"
+msgstr ""
+
+#: patterns/attributes.php:28 patterns/attributes.php:42
+#: patterns/attributes.php:56
+msgid "Free shipping on all order"
+msgstr ""
+
+#: patterns/footer.php:88
+msgid "Frequently asked"
+msgstr ""
+
+#: patterns/footer.php:80
+msgid "Funds"
+msgstr ""
+
+#: patterns/footer.php:19 patterns/footer.php:64 patterns/gallery.php:19
+msgid "Gallery"
+msgstr ""
+
+#: patterns/contact.php:19
+msgid "Get in touch today."
+msgstr ""
+
+#: patterns/banner-pro.php:56 patterns/banner.php:24 patterns/banner.php:56
+#: patterns/header-front.php:56 patterns/header-pro.php:59
+#: patterns/header.php:22 patterns/users.php:32
+msgid "Get Started"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Horizontal white to Primary color"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Primary color to white"
+msgstr ""
+
+#: patterns/portfolio.php:24
+msgid "Highlights of Our Portfolio"
+msgstr ""
+
+#: patterns/users.php:38
+msgid "Hire Us Now"
+msgstr ""
+
+#: patterns/footer.php:56
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://trendthemeswp.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://trendthemeswp.com/products/trend-business/"
+msgstr ""
+
+#: patterns/gallery.php:34
+msgid "Image Not Found! Try Again"
+msgstr ""
+
+#: patterns/aboutus.php:26
+msgid "Industrial Excellence Since 1975"
+msgstr ""
+
+#: patterns/banner-pro.php:22 patterns/header-front.php:22
+#: patterns/header-pro.php:23
+msgid "info@example.com"
+msgstr ""
+
+#: patterns/footer.php:71
+msgid "Informations"
+msgstr ""
+
+#: patterns/banner-pro.php:67 patterns/features.php:57
+msgid "Innovation"
+msgstr ""
+
+#: patterns/featured.php:28
+msgid "Innovative"
+msgstr ""
+
+#: patterns/banner.php:38
+msgid "Innovative Solutions for a Better"
+msgstr ""
+
+#: patterns/features.php:29 patterns/features.php:45 patterns/features.php:61
+#: patterns/features.php:79 patterns/features.php:95 patterns/features.php:111
+msgid ""
+"Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae "
+"inventore ab, cumque."
+msgstr ""
+
+#: patterns/hidden-404.php:23
+msgid ""
+"It looks like nothing was found at this location. Click button below to "
+"return to homepage."
+msgstr ""
+
+#: patterns/advance-team.php:41 patterns/advance-team.php:69
+#: patterns/advance-team.php:97 patterns/advance-team.php:125
+msgid "Jhon Heaan"
+msgstr ""
+
+#: patterns/team-members.php:74
+msgid "John Carter"
+msgstr ""
+
+#: patterns/news-letter.php:18
+msgid "Join our newsletter for $10 offs"
+msgstr ""
+
+#: patterns/team-members.php:41
+msgid ""
+"Jonelie Androde\n"
+"Jonelie Androde"
+msgstr ""
+
+#: patterns/contact.php:38
+msgid "Last Name"
+msgstr ""
+
+#: patterns/blogs.php:18
+msgid "Latest from the blog"
+msgstr ""
+
+#: patterns/footer.php:95
+msgid "Links"
+msgstr ""
+
+#: patterns/services.php:64
+msgid "Market Research"
+msgstr ""
+
+#: patterns/team-members.php:20
+msgid "Meet Expert Team Members"
+msgstr ""
+
+#: patterns/team-members.php:29
+msgid "Meet Our Team"
+msgstr ""
+
+#: patterns/contact.php:52
+msgid "Message"
+msgstr ""
+
+#: patterns/pricing.php:42 patterns/pricing.php:88 patterns/pricing.php:132
+msgid "Minim recusandae, volutpat magna, class, adipiscing, consec."
+msgstr ""
+
+#: patterns/single-column.php:30 patterns/two-column.php:28
+#: patterns/two-column.php:44
+msgid ""
+"Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer "
+"duis anim nisl vehicula in, velit quis magna venenat. Convallis mollit "
+"delectus metuc."
+msgstr ""
+
+#: patterns/users.php:26
+msgid ""
+"Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer "
+"duis anim nisl vehicula in, velit quis magna venenat. Convallis mollit "
+"delectus metus rem, morbi ac."
+msgstr ""
+
+#: patterns/aboutus.php:78
+msgid "More About us"
+msgstr ""
+
+#: patterns/testimonials.php:30
+msgid "More Reviews"
+msgstr ""
+
+#: patterns/services.php:138
+msgid "Operational Efficiency"
+msgstr ""
+
+#: patterns/banner-pro.php:78
+msgid "OR"
+msgstr ""
+
+#: patterns/services.php:19
+msgid "OUR SERVICES"
+msgstr ""
+
+#: patterns/advance-team.php:19
+msgid "Our Team"
+msgstr ""
+
+#: patterns/hidden-404.php:19
+msgid "Page not found"
+msgstr ""
+
+#: patterns/footer.php:47
+msgid "Pages"
+msgstr ""
+
+#: patterns/hidden-404.php:2
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/aboutus.php:2
+msgctxt "Pattern title"
+msgid "AboutUs"
+msgstr ""
+
+#: patterns/advance-team.php:2
+msgctxt "Pattern title"
+msgid "Advance Team"
+msgstr ""
+
+#: patterns/attributes.php:2
+msgctxt "Pattern title"
+msgid "Attributes"
+msgstr ""
+
+#: patterns/banner.php:2
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner-pro.php:2
+msgctxt "Pattern title"
+msgid "Banner Pro"
+msgstr ""
+
+#: patterns/blogs.php:2
+msgctxt "Pattern title"
+msgid "Blogs"
+msgstr ""
+
+#: patterns/blogs-nosidebar.php:2
+msgctxt "Pattern title"
+msgid "Blogs No Sidebar"
+msgstr ""
+
+#: patterns/blogs-left-sidebar.php:2
+msgctxt "Pattern title"
+msgid "Blogs With Left Sidebar"
+msgstr ""
+
+#: patterns/blogs-right-sidebar.php:2
+msgctxt "Pattern title"
+msgid "Blogs With Right Sidebar"
+msgstr ""
+
+#: patterns/contact.php:2
+msgctxt "Pattern title"
+msgid "Contact"
+msgstr ""
+
+#: patterns/featured.php:2
+msgctxt "Pattern title"
+msgid "Featured"
+msgstr ""
+
+#: patterns/features.php:2
+msgctxt "Pattern title"
+msgid "Features"
+msgstr ""
+
+#: patterns/footer.php:2
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/gallery.php:2
+msgctxt "Pattern title"
+msgid "Gallery"
+msgstr ""
+
+#: patterns/header.php:2
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/header-front.php:2
+msgctxt "Pattern title"
+msgid "Header Front"
+msgstr ""
+
+#: patterns/header-pro.php:2
+msgctxt "Pattern title"
+msgid "Header Pro"
+msgstr ""
+
+#: patterns/news-letter.php:2
+msgctxt "Pattern title"
+msgid "News Letter"
+msgstr ""
+
+#: patterns/page.php:2
+msgctxt "Pattern title"
+msgid "Page"
+msgstr ""
+
+#: patterns/page-banner.php:2
+msgctxt "Pattern title"
+msgid "Page Banner"
+msgstr ""
+
+#: patterns/portfolio.php:2
+msgctxt "Pattern title"
+msgid "Portfolio"
+msgstr ""
+
+#: patterns/pricing.php:2
+msgctxt "Pattern title"
+msgid "Pricing"
+msgstr ""
+
+#: patterns/services.php:2
+msgctxt "Pattern title"
+msgid "Services"
+msgstr ""
+
+#: patterns/sidebar.php:2
+msgctxt "Pattern title"
+msgid "Siderbar"
+msgstr ""
+
+#: patterns/single-column.php:2
+msgctxt "Pattern title"
+msgid "Single Column"
+msgstr ""
+
+#: patterns/team-members.php:2
+msgctxt "Pattern title"
+msgid "Team Member"
+msgstr ""
+
+#: patterns/testimonials.php:2
+msgctxt "Pattern title"
+msgid "Testimonials"
+msgstr ""
+
+#: patterns/two-column.php:2
+msgctxt "Pattern title"
+msgid "Two Column"
+msgstr ""
+
+#: patterns/users.php:2
+msgctxt "Pattern title"
+msgid "Users"
+msgstr ""
+
+#: patterns/banner-pro.php:72 patterns/banner.php:43
+msgid ""
+"Praesent feugiat, nunc et congue ultricies, leo lacus vehicula eros, at "
+"ullamcorper erat orci nec turpis. Nulla facilisi. Aliquam erat volutpat. "
+"Mauris auctor, nulla et facilisis tempor, velit purus pellentesque odio, a "
+"pharetra est lacus at libero."
+msgstr ""
+
+#: patterns/pricing.php:123
+msgid "PREMIUM"
+msgstr ""
+
+#: patterns/footer.php:104
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/features.php:91
+msgid "Productivity"
+msgstr ""
+
+#: patterns/team-members.php:46 patterns/team-members.php:62
+msgid "Project Manager"
+msgstr ""
+
+#: patterns/team-members.php:24
+msgid ""
+"raesent feugiat, nunc et congue ultricies, leo lacus vehicula eros, at "
+"ullamcorper erat"
+msgstr ""
+
+#: patterns/services.php:44 patterns/services.php:68 patterns/services.php:92
+#: patterns/services.php:118 patterns/services.php:142
+#: patterns/services.php:166
+msgid ""
+"raesent feugiat, nunc et congue ultricies, leo lacus vehicula eros, at "
+"ullamcorper erat orci nec turpis. Nulla facilisi. Aliquam erat volutpat"
+msgstr ""
+
+#: patterns/single-column.php:35 patterns/two-column.php:33
+#: patterns/two-column.php:49
+msgid "Read More"
+msgstr ""
+
+#: patterns/blogs-left-sidebar.php:41 patterns/blogs-right-sidebar.php:78
+#: patterns/sidebar.php:31
+msgid "Recent post"
+msgstr ""
+
+#: patterns/news-letter.php:22
+msgid "Register now to get latest updates on promotions &amp; coupons."
+msgstr ""
+
+#: patterns/footer.php:80
+msgid "Returns"
+msgstr ""
+
+#: patterns/banner-pro.php:26 patterns/header-front.php:26
+#: patterns/header-pro.php:27
+msgid "Rock Street, San Francisco"
+msgstr ""
+
+#: patterns/aboutus.php:30 patterns/advance-team.php:29 patterns/contact.php:23
+#: patterns/gallery.php:29
+msgid ""
+"rure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae "
+"inventore ab, cumque."
+msgstr ""
+
+#: patterns/features.php:75
+msgid "Scalability"
+msgstr ""
+
+#: patterns/testimonials.php:56 patterns/testimonials.php:82
+msgid "SENIOR DESIGNER"
+msgstr ""
+
+#: patterns/footer.php:76
+msgid "Shipping Policy"
+msgstr ""
+
+#: patterns/featured.php:28
+msgid "Solutions"
+msgstr ""
+
+#: patterns/pricing.php:79
+msgid "STANDARD"
+msgstr ""
+
+#: patterns/testimonials.php:52 patterns/testimonials.php:78
+msgid "Steve Sampson"
+msgstr ""
+
+#: patterns/services.php:40
+msgid "Strategic Business Planning"
+msgstr ""
+
+#: patterns/gallery.php:34
+msgid "Strategy"
+msgstr ""
+
+#: patterns/contact.php:44
+msgid "Subject"
+msgstr ""
+
+#: patterns/features.php:41
+msgid "Sustainability"
+msgstr ""
+
+#: patterns/blogs-left-sidebar.php:73 patterns/blogs-right-sidebar.php:110
+#: patterns/sidebar.php:63
+msgid "Tags"
+msgstr ""
+
+#: patterns/single-column.php:26
+msgid "Take your brand to next level design concept."
+msgstr ""
+
+#: patterns/banner-pro.php:67
+msgid "Technology"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: patterns/footer.php:108
+msgid "Terms"
+msgstr ""
+
+#: patterns/contact.php:32 patterns/contact.php:38 patterns/contact.php:44
+#: patterns/contact.php:48
+msgid "This field is required."
+msgstr ""
+
+#: patterns/services.php:29
+msgid "Through Expert Consulting"
+msgstr ""
+
+#: patterns/banner.php:38
+msgid "Tomorrow"
+msgstr ""
+
+#: inc/block-patterns.php:17
+msgid "Trend Business"
+msgstr ""
+
+#. Name of the theme
+msgid "Trend Business Pro"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Trend Business Pro is a modern, full-site editing WordPress theme designed "
+"for corporate, consulting, and professional service websites. Built with "
+"speed, flexibility, and customization in mind, it empowers businesses to "
+"create a strong online presence with ease — no coding required. From "
+"startups and agencies to financial firms and service providers, Trend "
+"Business adapts seamlessly to your brand with intuitive block-based "
+"customization. Compatible with the latest WordPress and plugin ecosystem, it "
+"ensures high performance, accessibility, and a fully responsive design. "
+"Explore the live demo to see how effortlessly you can build a polished "
+"business website.  Check the real demo:  https://demos.trendthemeswp."
+"com/trend-business-pro"
+msgstr ""
+
+#. Author of the theme
+msgid "Trendthemeswp"
+msgstr ""
+
+#: patterns/users.php:21
+msgid "Trusted by over 12,000 satisfied clients worldwide"
+msgstr ""
+
+#: patterns/aboutus.php:40 patterns/aboutus.php:60 patterns/aboutus.php:70
+msgid "ure dolorum aute quod musin cura wisi. Ipsum"
+msgstr ""
+
+#: patterns/aboutus.php:50
+msgid "ure dolorum aute quod musin cura wisi. Ipsum "
+msgstr ""
+
+#: patterns/features.php:25
+msgid "User Friendly"
+msgstr ""
+
+#: patterns/pricing.php:18
+msgid "View our pricing plans"
+msgstr ""
+
+#: patterns/advance-team.php:45 patterns/advance-team.php:73
+#: patterns/advance-team.php:101 patterns/advance-team.php:129
+msgid "Web designer"
+msgstr ""
+
+#: patterns/testimonials.php:20
+msgid "What our clients are saying"
+msgstr ""
+
+#: patterns/portfolio.php:19
+msgid "WORK COLLECTION"
+msgstr ""
+
+#: patterns/featured.php:42
+msgid "workspace"
+msgstr ""
+
+#: patterns/testimonials.php:43 patterns/testimonials.php:69
+msgid ""
+"“Architecto autem facilis conse quuntur rerum nemo! Torquent non, nostrum "
+"quis vestibulum magnis? Quos praesentium netus. Gravida, eros, ridiculus "
+"dolor purus eveniet magnam vero.”"
+msgstr ""

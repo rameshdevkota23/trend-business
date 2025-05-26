@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Featured
- * Slug: trend-business/featured
- * Categories: trend-business
+ * Slug: trend-business-pro/featured
+ * Categories: trend-business-pro
  *
  * @package Trend Business
  * @since 1.0.0
@@ -25,11 +25,11 @@
 
 <!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"var:preset|spacing|30","padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
 <div class="wp-block-column is-vertically-aligned-center" style="padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:heading -->
-<h2 class="wp-block-heading"><?php echo esc_html__( 'Innovative', 'trend-business' ); ?> <strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-theme-color"><?php echo esc_html__( 'Solutions', 'trend-business' ); ?></mark></strong></h2>
+<h2 class="wp-block-heading"><?php echo esc_html__( 'Innovative', 'trend-business-pro' ); ?> <strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-theme-color"><?php echo esc_html__( 'Solutions', 'trend-business-pro' ); ?></mark></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Architecto autem facilis conse', 'trend-business' ); ?></p>
+<p><?php echo esc_html__( 'Architecto autem facilis conse', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -39,11 +39,11 @@
 <div class="wp-block-column has-border-color has-theme-border-color has-background" style="border-width:4px;background-color:#f0f0f0"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"var:preset|spacing|30","padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|70"}}}} -->
 <div class="wp-block-column is-vertically-aligned-center" style="padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--70)"><!-- wp:heading -->
-<h2 class="wp-block-heading"><?php echo esc_html__( 'Create', 'trend-business' ); ?> <strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-theme-color"><?php echo esc_html__( 'workspace', 'trend-business' ); ?></mark></strong></h2>
+<h2 class="wp-block-heading"><?php echo esc_html__( 'Create', 'trend-business-pro' ); ?> <strong><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-theme-color"><?php echo esc_html__( 'workspace', 'trend-business-pro' ); ?></mark></strong></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Architecto autem facilis conse', 'trend-business' ); ?></p>
+<p><?php echo esc_html__( 'Architecto autem facilis conse', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 

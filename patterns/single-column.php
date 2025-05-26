@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Single Column
- * Slug: trend-business/single-column
- * Categories: trend-business
+ * Slug: trend-business-pro/single-column
+ * Categories: trend-business-pro
  *
  * @package Trend Business
  * @since 1.0.0
@@ -23,16 +23,16 @@
 
 <!-- wp:column {"width":"60%","style":{"spacing":{"padding":{"right":"var:preset|spacing|80","left":"var:preset|spacing|50"}}}} -->
 <div class="wp-block-column" style="padding-right:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--50);flex-basis:60%"><!-- wp:heading {"textAlign":"left","style":{"typography":{"fontSize":"37px","lineHeight":"1.2"}}} -->
-<h2 class="wp-block-heading has-text-align-left" style="font-size:37px;line-height:1.2"><?php echo esc_html__( 'Take your brand to next level design concept.', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-left" style="font-size:37px;line-height:1.2"><?php echo esc_html__( 'Take your brand to next level design concept.', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left"><?php echo esc_html__( 'Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer duis anim nisl vehicula in, velit quis magna venenat. Convallis mollit delectus metuc.', 'trend-business' ); ?></p>
+<p class="has-text-align-left"><?php echo esc_html__( 'Minim recusandae, volutpat magna, class, adipiscing, quo id consectetuer duis anim nisl vehicula in, velit quis magna venenat. Convallis mollit delectus metuc.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","justifyContent":"left"}} -->
 <div class="wp-block-buttons" style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php echo esc_html__( 'Read More', 'trend-business' ); ?></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php echo esc_html__( 'Read More', 'trend-business-pro' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:column --></div>

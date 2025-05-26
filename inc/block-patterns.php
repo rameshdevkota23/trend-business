@@ -14,7 +14,7 @@
  */
 function trend_business_register_block_patterns() {
 	$block_pattern_categories = array(
-		'trend-business' => array( 'label' => esc_html__( 'Trend Business', 'trend-business' ) ),
+		'trend-business-pro' => array( 'label' => esc_html__( 'Trend Business', 'trend-business-pro' ) ),
 	);
 
 	/**

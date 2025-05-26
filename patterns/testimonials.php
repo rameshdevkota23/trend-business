@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Testimonials
- * Slug: trend-business/testimonials
- * Categories: trend-business
+ * Slug: trend-business-pro/testimonials
+ * Categories: trend-business-pro
  *
  * @package Trend Business
  * @since 1.0.0
@@ -17,17 +17,17 @@
 <!-- wp:group {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|70"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group" style="margin-bottom:var(--wp--preset--spacing--70)"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"fontSize":"48px"}}} -->
-<h2 class="wp-block-heading" style="font-size:48px"><?php echo esc_html__( 'What our clients are saying', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading" style="font-size:48px"><?php echo esc_html__( 'What our clients are saying', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p><?php echo esc_html__( 'Elementum quia fugit cum euismod, varius hymenaeos', 'trend-business' ); ?></p>
+<p><?php echo esc_html__( 'Elementum quia fugit cum euismod, varius hymenaeos', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php echo esc_html__( 'More Reviews', 'trend-business' ); ?></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php echo esc_html__( 'More Reviews', 'trend-business-pro' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->
@@ -40,7 +40,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|40"}}},"fontSize":"medium"} -->
-<p class="has-medium-font-size" style="padding-bottom:var(--wp--preset--spacing--40)"><?php echo esc_html__( '“Architecto autem facilis conse quuntur rerum nemo! Torquent non, nostrum quis vestibulum magnis? Quos praesentium netus. Gravida, eros, ridiculus dolor purus eveniet magnam vero.”', 'trend-business' ); ?></p>
+<p class="has-medium-font-size" style="padding-bottom:var(--wp--preset--spacing--40)"><?php echo esc_html__( '“Architecto autem facilis conse quuntur rerum nemo! Torquent non, nostrum quis vestibulum magnis? Quos praesentium netus. Gravida, eros, ridiculus dolor purus eveniet magnam vero.”', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":252,"width":"104px","height":"auto","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded","style":{"border":{"radius":"99999999px"}}} -->
@@ -49,11 +49,11 @@
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:0;padding-bottom:0"><!-- wp:heading {"style":{"typography":{"fontSize":"24px"},"spacing":{"padding":{"top":"var:preset|spacing|30"}}}} -->
-<h2 class="wp-block-heading" style="padding-top:var(--wp--preset--spacing--30);font-size:24px"><?php echo esc_html__( 'Steve Sampson', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading" style="padding-top:var(--wp--preset--spacing--30);font-size:24px"><?php echo esc_html__( 'Steve Sampson', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"14px"}}} -->
-<p style="font-size:14px"><?php echo esc_html__( 'SENIOR DESIGNER', 'trend-business' ); ?></p>
+<p style="font-size:14px"><?php echo esc_html__( 'SENIOR DESIGNER', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
@@ -66,7 +66,7 @@
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|40"}}},"fontSize":"medium"} -->
-<p class="has-medium-font-size" style="padding-bottom:var(--wp--preset--spacing--40)"><?php echo esc_html__( '“Architecto autem facilis conse quuntur rerum nemo! Torquent non, nostrum quis vestibulum magnis? Quos praesentium netus. Gravida, eros, ridiculus dolor purus eveniet magnam vero.”', 'trend-business' ); ?></p>
+<p class="has-medium-font-size" style="padding-bottom:var(--wp--preset--spacing--40)"><?php echo esc_html__( '“Architecto autem facilis conse quuntur rerum nemo! Torquent non, nostrum quis vestibulum magnis? Quos praesentium netus. Gravida, eros, ridiculus dolor purus eveniet magnam vero.”', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":252,"width":"104px","height":"auto","sizeSlug":"full","linkDestination":"none","className":"is-style-rounded","style":{"border":{"radius":"99999999px"}}} -->
@@ -75,11 +75,11 @@
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:0;padding-bottom:0"><!-- wp:heading {"style":{"typography":{"fontSize":"24px"},"spacing":{"padding":{"top":"var:preset|spacing|30"}}}} -->
-<h2 class="wp-block-heading" style="padding-top:var(--wp--preset--spacing--30);font-size:24px"><?php echo esc_html__( 'Steve Sampson', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading" style="padding-top:var(--wp--preset--spacing--30);font-size:24px"><?php echo esc_html__( 'Steve Sampson', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"typography":{"fontSize":"14px"}}} -->
-<p style="font-size:14px"><?php echo esc_html__( 'SENIOR DESIGNER', 'trend-business' ); ?></p>
+<p style="font-size:14px"><?php echo esc_html__( 'SENIOR DESIGNER', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
