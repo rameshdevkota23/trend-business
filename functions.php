@@ -15,7 +15,39 @@
  *
  * @return void
  */
+if ( ! function_exists( 'tbp_fs' ) ) {
+    // Create a helper function for easy SDK access.
+    function tbp_fs() {
+        global $tbp_fs;
 
+        if ( ! isset( $tbp_fs ) ) {
+            // Include Freemius SDK.
+            require_once dirname( __FILE__ ) . '/inc/freemius/start.php';
+            $tbp_fs = fs_dynamic_init( array(
+                'id'                  => '19238',
+                'slug'                => 'trend-business-pro',
+                'type'                => 'theme',
+                'public_key'          => 'pk_81a62c406ac55a14e9d6ad8322034',
+                'is_premium'          => true,
+                'premium_suffix'      => 'Summertime',
+                // If your theme is a serviceware, set this option to false.
+                'has_premium_version' => true,
+                'has_addons'          => false,
+                'has_paid_plans'      => true,
+                'menu'                => array(
+                    'support'        => false,
+                ),
+            ) );
+        }
+
+        return $tbp_fs;
+    }
+
+    // Init Freemius.
+    tbp_fs();
+    // Signal that SDK was initiated.
+    do_action( 'tbp_fs_loaded' );
+}
 if ( ! function_exists( 'trend_business_support' ) ) :
 	/**
 	 * Sets up theme defaults and registers support for various WordPress features.
