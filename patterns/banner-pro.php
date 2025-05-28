@@ -7,7 +7,6 @@
  * @package Trend Business
  * @since 1.0.0
  */
-
 ?>
 <!-- wp:cover {"url":"<?php echo esc_url( get_template_directory_uri() );?>/assets/images/background.jpg","id":336,"dimRatio":80,"isUserOverlayColor":true,"minHeight":150,"minHeightUnit":"px","contentPosition":"center center","sizeSlug":"large","align":"full","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"},"color":{"duotone":"unset"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-cover alignfull" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;min-height:150px"><img class="wp-block-cover__image-background wp-image-336 size-large" alt="" src="<?php echo esc_url( get_template_directory_uri() );?>/assets/images/background.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-80 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:group {"metadata":{"categories":["trend-business-pro"],"patternName":"trend-business-pro/header-front","name":"Header Front"},"className":"sticky-header","style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"var:preset|spacing|30","right":"var:preset|spacing|30"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"backgroundColor":"transparent","layout":{"type":"constrained"}} -->

@@ -34,7 +34,7 @@
 <!-- wp:group {"style":{"color":{"background":"#a5840a"},"border":{"radius":"7px"},"spacing":{"blockGap":"0","padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group has-background" style="border-radius:7px;background-color:#a5840a;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--40)"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#e3e7fa"}}},"typography":{"lineHeight":"1.7","fontSize":"18px"},"color":{"text":"#e3e7fa"}}} -->
-<h2 class="wp-block-heading has-text-color has-link-color" style="color:#e3e7fa;font-size:18px;line-height:1.7"><?php echo esc_html__( 'Electric System', 'trend-business-pro' ); ?></h2>
+<h2 class="wp-block-heading has-text-color has-link-color" style="color:#e3e7fa;font-size:18px;line-height:1.7"><?php echo esc_html__( 'GaElectric Systemlery', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}},"typography":{"lineHeight":"1.5","fontSize":"23px"}},"textColor":"base"} -->
@@ -58,11 +58,11 @@
 <!-- wp:group {"style":{"color":{"background":"#a5840a"},"border":{"radius":"7px"},"spacing":{"blockGap":"0","padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40","top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group has-background" style="border-radius:7px;background-color:#a5840a;padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--40)"><!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"#e3e7fa"}}},"typography":{"lineHeight":"1.7","fontSize":"18px"},"color":{"text":"#e3e7fa"}}} -->
-<h2 class="wp-block-heading has-text-color has-link-color" style="color:#e3e7fa;font-size:18px;line-height:1.7"><?php echo esc_html__( 'Electric System', 'trend-business-pro' ); ?></h2>
+<h2 class="wp-block-heading has-text-color has-link-color" style="color:#e3e7fa;font-size:18px;line-height:1.7">Commercial Project</h2>
 <!-- /wp:heading -->
 
 <!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}},"typography":{"lineHeight":"1.5","fontSize":"23px"}},"textColor":"base"} -->
-<h2 class="wp-block-heading has-base-color has-text-color has-link-color" style="font-size:23px;line-height:1.5"><?php echo esc_html__( 'Commercial Project', 'trend-business-pro' ); ?></h2>
+<h2 class="wp-block-heading has-base-color has-text-color has-link-color" style="font-size:23px;line-height:1.5">Commercial Project</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 
@@ -86,7 +86,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:heading {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}},"typography":{"lineHeight":"1.5","fontSize":"23px"}},"textColor":"base"} -->
-<h2 class="wp-block-heading has-base-color has-text-color has-link-color" style="font-size:23px;line-height:1.5"><?php echo esc_html__( 'Commercial Project', 'trend-business-pro' ); ?></h2>
+<h2 class="wp-block-heading has-base-color has-text-color has-link-color" style="font-size:23px;line-height:1.5">Electric System</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:group -->
 

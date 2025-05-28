@@ -80,8 +80,14 @@ form .wp-block-search__input {
 }
 
 /* submenu css starts here  */
+/* Default padding */
 .wp-block-navigation .wp-block-navigation-item__content.wp-block-navigation-item__content {
 	padding: 15px 15px;
+}
+
+/* Override padding for submenu items */
+.wp-block-navigation__submenu-container.wp-block-navigation-submenu li a.wp-block-navigation-item__content {
+	padding: 5px; /* or 0, or any padding you want for submenu items */
 }
 
 @media screen and (min-width: 1000px) {
@@ -843,5 +849,20 @@ position: relative;
 
 .ourteam-box:hover {
   box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+@media (min-width: 601px) {
+    .wp-block-navigation__submenu-container.wp-block-navigation-submenu li:first-child {
+        line-height: 21px;
+ 		padding: 1px !important;
+        border-top: solid var(--wp--preset--color--theme) 2px;
+    }
+
+ 
+
+}
+
+.wp-block-navigation__submenu-icon.wp-block-navigation-submenu__toggle{
+	margin-right: -5px;
 }
 /* scrool to top */
