@@ -94,16 +94,16 @@ $free_theme_name = str_replace( ' Pro', '',$theme_name );
                                         <td>
                                             <?php esc_html_e( '24/7 premium support', 'trend-business' ); ?>
                                         </td>
-                                        <td><?php esc_html_e( 'High-Priority Dedicated Support', 'trend-business' ); ?>
+                                        <td><span class="dashicons dashicons-yes"></span><?php esc_html_e( 'High-Priority Dedicated Support', 'trend-business' ); ?>
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td><span class="dashicons dashicons-no"></span>
+                                        <td><span class="dashicons dashicons-no">Limited</span>
                                         </td>
                                         <td>
-                                            <?php esc_html_e( 'Different niches starter sites', 'trend-business' ); ?>
+                                            <?php esc_html_e( 'Block Patterns', 'trend-business' ); ?>
                                         </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
+                                        <td><span class="dashicons dashicons-yes"></span><?php esc_html_e( '50+', 'trend-business' ); ?>
                                         </td>
                                     </tr>
                                     <tr>
@@ -144,7 +144,7 @@ $free_theme_name = str_replace( ' Pro', '',$theme_name );
                                         </td>
                                     </tr>
                                     <tr>
-                                        <td><span class="dashicons dashicons-yes"></span>
+                                        <td><span class="dashicons dashicons-no"></span>
                                         </td>
                                         <td>
                                             <?php esc_html_e( 'Advanced Templates', 'trend-business' ); ?>
@@ -161,17 +161,9 @@ $free_theme_name = str_replace( ' Pro', '',$theme_name );
                                         <td><span class="dashicons dashicons-yes"></span>
                                         </td>
                                     </tr>
+                            
                                     <tr>
-                                        <td><span class="dashicons ">Limited</span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Block Patterns', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><span class="dashicons dashicons">Limited</span>
+                                        <td><span class="dashicons dashicons-no"></span>
                                         </td>
                                         <td>
                                             <?php esc_html_e( 'Global Style Variations', 'trend-business' ); ?>
@@ -179,24 +171,8 @@ $free_theme_name = str_replace( ' Pro', '',$theme_name );
                                         <td><span class="dashicons dashicons-yes"></span>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td><span class="dashicons dashicons-no"></span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Bulk Variation', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><span class="dashicons dashicons-no"></span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Premium Support', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
+     
+                               
                                     <tr>
                                         <td><span class="dashicons dashicons-no"></span>
                                         </td>
@@ -215,24 +191,8 @@ $free_theme_name = str_replace( ' Pro', '',$theme_name );
                                         <td><span class="dashicons dashicons-yes"></span>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'One Click Demo Import', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><span class="dashicons dashicons-no"></span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( ' Featured Slider', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
+                                    
+                       
                                     <tr>
                                         <td><?php esc_html_e( 'Limited', 'trend-business' ); ?>
                                         </td>
@@ -269,103 +229,9 @@ $free_theme_name = str_replace( ' Pro', '',$theme_name );
                                         <td><span class="dashicons dashicons-yes"></span>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td><span class="dashicons dashicons-no"></span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Profile card (Block)', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><?php esc_html_e( 'Limited', 'trend-business' ); ?>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Blog (block)', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span><?php esc_html_e( 'Unlimited', 'trend-business' ); ?>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><?php esc_html_e( 'Limited', 'trend-business' ); ?>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Carousel Post (Block)', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span><?php esc_html_e( 'Unlimited', 'trend-business' ); ?>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Testimonials(block)', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><span class="dashicons dashicons-no"></span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'News Block', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><?php esc_html_e( 'Limited', 'trend-business' ); ?>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Templates and block patterns', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><?php esc_html_e( 'Limited', 'trend-business' ); ?>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Advanced Color Options', 'trend-business' ); ?>
-                                        </td>
-                                        <td><?php esc_html_e( 'Unlimited', 'trend-business' ); ?>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>
-                                        </td>
-                                       
-                                        <td>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><span class="dashicons dashicons-no"></span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Enable Mini Cart On Header', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><span class="dashicons dashicons-no"></span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Enable Testimonial Slider', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><span class="dashicons dashicons-no"></span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Enable Sponsor Slider', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
+                           
+                                    
+                                    
                                     <tr>
                                         <td><span class="dashicons dashicons-no"></span>
                                         </td>
@@ -376,115 +242,46 @@ $free_theme_name = str_replace( ' Pro', '',$theme_name );
                                         </td>
                                     </tr>
                               
-                                    <tr>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Booking system', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Google Maps zoom level settings', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
-                                    <tr>
+                                     <tr>
                                         <td><span class="dashicons dashicons-no"></span>
                                         </td>
                                         <td>
-                                            <?php esc_html_e( 'Group discount', 'trend-business' ); ?>
+                                            <?php esc_html_e( 'Animation', 'trend-business' ); ?>
                                         </td>
                                         <td><span class="dashicons dashicons-yes"></span>
                                         </td>
                                     </tr>
-                                    <tr>
+
+                                     <tr>
                                         <td><span class="dashicons dashicons-no"></span>
                                         </td>
                                         <td>
-                                            <?php esc_html_e( 'Wishlist', 'trend-business' ); ?>
+                                            <?php esc_html_e( 'Scroll to Top Button', 'trend-business' ); ?>
                                         </td>
                                         <td><span class="dashicons dashicons-yes"></span>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td><?php esc_html_e( 'Limited', 'trend-business' ); ?>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Tour extras', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Multiple prices and multiple dates', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Coupon', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
-                               
-                                    <tr>
-                                        <td><span class="dashicons dashicons-yes"></span><?php esc_html_e( 'Limited Features', 'trend-business' ); ?>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Block themes', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
-                                    <tr>
+                                
+                                        <tr>
                                         <td><span class="dashicons dashicons-no"></span>
                                         </td>
                                         <td>
-                                            <?php esc_html_e( 'Style variations', 'trend-business' ); ?>
+                                            <?php esc_html_e( 'Icon Picker', 'trend-business' ); ?>
                                         </td>
                                         <td><span class="dashicons dashicons-yes"></span>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td><?php esc_html_e( 'Limited', 'trend-business' ); ?>
+                                     <tr>
+                                        <td><span class="dashicons dashicons-no"></span>
                                         </td>
                                         <td>
-                                            <?php esc_html_e( 'Block patterns and template parts', 'trend-business' ); ?>
+                                            <?php esc_html_e( 'Portfolio Pattern', 'trend-business' ); ?>
                                         </td>
                                         <td><span class="dashicons dashicons-yes"></span>
                                         </td>
                                     </tr>
-                                    <tr>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Global style Interface', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                        <td>
-                                            <?php esc_html_e( 'Edit each areas of website(header, footer, sidebar)', 'trend-business' ); ?>
-                                        </td>
-                                        <td><span class="dashicons dashicons-yes"></span>
-                                        </td>
-                                    </tr>
+                                 
+                                    
                                 </tbody>
                             </table>
                         </div>

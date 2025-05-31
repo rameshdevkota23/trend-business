@@ -131,3 +131,4 @@ if ( ! function_exists( 'trend_business_block_styles' ) ) :
 endif;
 
 add_action( 'init', 'trend_business_block_styles' );
+
