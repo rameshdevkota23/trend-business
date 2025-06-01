@@ -25,7 +25,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","style":{"typography":{"fontSize":"15px"}}} -->
-<p class="has-text-align-left" style="font-size:15px"><?php echo esc_html__( 'Free shipping on all order', 'trend-business' ); ?></p>
+<p class="has-text-align-left" style="font-size:15px"><?php echo esc_html__( 'Free shiping on all order', 'trend-business' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
