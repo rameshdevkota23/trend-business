@@ -14,3 +14,37 @@
   padding-right: 5px;
   font-size: 12px;
 }
+
+.post-author-name.wp-block-post-author-name::before{
+  content: "\f110";
+  font-family: 'Dashicons';
+  font-weight: 600;
+  padding-right: 5px;
+  font-size: 12px;
+}
+
+.contact-icon::before{
+    cursor: pointer;
+    color: var(--wp--preset--color--link-color);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+    content: '\f879';
+	padding-right: 5%;
+
+}
+.mail-icon::before{
+    cursor: pointer;
+    color: var(--wp--preset--color--link-color);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+    content: '\f0e0';
+	padding-right: 5px;
+}
+.location-icon::before{
+    cursor: pointer;
+    color: var(--wp--preset--color--link-color);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+    content: '\f3c5';
+	padding-right: 5px;
+}

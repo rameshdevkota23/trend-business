@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Header
- * Slug: trend-business/header
- * Categories: trend-business
+ * Slug: trend-business-pro/header
+ * Categories: trend-business-pro
  *
  * @package Trend Business
  * @since 1.0.0
@@ -19,7 +19,7 @@
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php echo esc_html__( 'Get Started', 'trend-business' ); ?></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php echo esc_html__( 'Get Started', 'trend-business-pro' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>

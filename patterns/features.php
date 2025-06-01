@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Features
- * Slug: trend-business/features
- * Categories: trend-business
+ * Slug: trend-business-pro/features
+ * Categories: trend-business-pro
  *
  * @package Trend Business
  * @since 1.0.0
@@ -22,11 +22,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"20px","lineHeight":"2.2"},"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
-<h2 class="wp-block-heading has-text-align-center" style="padding-top:0;padding-bottom:0;font-size:20px;line-height:2.2"><?php echo esc_html__( 'User Friendly', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center" style="padding-top:0;padding-bottom:0;font-size:20px;line-height:2.2"><?php echo esc_html__( 'User Friendly', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -38,11 +38,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"20px","lineHeight":"2.2"},"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
-<h2 class="wp-block-heading has-text-align-center" style="padding-top:0;padding-bottom:0;font-size:20px;line-height:2.2"><?php echo esc_html__( 'Sustainability', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center" style="padding-top:0;padding-bottom:0;font-size:20px;line-height:2.2"><?php echo esc_html__( 'Sustainability', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -54,11 +54,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"20px","lineHeight":"2.2"},"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
-<h2 class="wp-block-heading has-text-align-center" style="padding-top:0;padding-bottom:0;font-size:20px;line-height:2.2"><?php echo esc_html__( 'Innovation', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center" style="padding-top:0;padding-bottom:0;font-size:20px;line-height:2.2"><?php echo esc_html__( 'Innovation', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
@@ -72,11 +72,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"20px","lineHeight":"2.2"},"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
-<h2 class="wp-block-heading has-text-align-center" style="padding-top:0;padding-bottom:0;font-size:20px;line-height:2.2"><?php echo esc_html__( 'Scalability', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center" style="padding-top:0;padding-bottom:0;font-size:20px;line-height:2.2"><?php echo esc_html__( 'Scalability', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -88,11 +88,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"20px","lineHeight":"2.2"},"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
-<h2 class="wp-block-heading has-text-align-center" style="padding-top:0;padding-bottom:0;font-size:20px;line-height:2.2"><?php echo esc_html__( 'Productivity', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center" style="padding-top:0;padding-bottom:0;font-size:20px;line-height:2.2"><?php echo esc_html__( 'Productivity', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
@@ -104,11 +104,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"20px","lineHeight":"2.2"},"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
-<h2 class="wp-block-heading has-text-align-center" style="padding-top:0;padding-bottom:0;font-size:20px;line-height:2.2"><?php echo esc_html__( 'Competitiveness', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center" style="padding-top:0;padding-bottom:0;font-size:20px;line-height:2.2"><?php echo esc_html__( 'Competitiveness', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Irure dolorum aute quod musin cura wisi. Ipsum sec quam potenti earum beatae inventore ab, cumque.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>

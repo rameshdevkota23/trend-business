@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Blogs
- * Slug: trend-business/blogs
- * Categories: trend-business
+ * Slug: trend-business-pro/blogs
+ * Categories: trend-business-pro
  *
  * @package Trend Business
  * @since 1.0.0
@@ -15,11 +15,11 @@
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"48px"}}} -->
-<h2 class="wp-block-heading has-text-align-center" style="font-size:48px"><?php echo esc_html__( 'Latest from the blog', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-center" style="font-size:48px"><?php echo esc_html__( 'Latest from the blog', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo esc_html__( 'Elementum quia fugit cum euismod, varius hymenaeos.', 'trend-business' ); ?></p>
+<p class="has-text-align-center"><?php echo esc_html__( 'Elementum quia fugit cum euismod, varius hymenaeos.', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->

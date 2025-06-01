@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Footer
- * Slug: trend-business/footer
- * Categories: trend-business
+ * Slug: trend-business-pro/footer
+ * Categories: trend-business-pro
  *
  * @package Trend Business
  * @since 1.0.0
@@ -16,7 +16,7 @@
 <div class="wp-block-column"><!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
 <div class="wp-block-column has-white-color has-text-color has-link-color"><!-- wp:heading {"style":{"typography":{"fontSize":"21px","fontStyle":"normal","fontWeight":"700"}},"fontFamily":"hind"} -->
-<h2 class="wp-block-heading has-hind-font-family" style="font-size:21px;font-style:normal;font-weight:700"><?php echo esc_html__( 'Gallery', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-hind-font-family" style="font-size:21px;font-style:normal;font-weight:700"><?php echo esc_html__( 'Gallery', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:gallery {"columns":2,"linkTo":"none"} -->
@@ -44,73 +44,76 @@
 
 <!-- wp:column {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
 <div class="wp-block-column has-white-color has-text-color has-link-color"><!-- wp:heading {"style":{"typography":{"fontSize":"21px","fontStyle":"normal","fontWeight":"700"}},"fontFamily":"hind"} -->
-<h2 class="wp-block-heading has-hind-font-family" style="font-size:21px;font-style:normal;font-weight:700"><?php echo esc_html__( 'Pages', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-hind-font-family" style="font-size:21px;font-style:normal;font-weight:700"><?php echo esc_html__( 'Pages', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"},"color":{"text":"#7e7f7c"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-text-color" style="color:#7e7f7c"><!-- wp:paragraph {"style":{"color":{"text":"#f6f6f6"},"elements":{"link":{"color":{"text":"#f6f6f6"}}}}} -->
-<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'About Us', 'trend-business' ); ?></p>
+<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'About Us', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#f6f6f6"},"elements":{"link":{"color":{"text":"#f6f6f6"}}}}} -->
-<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Home', 'trend-business' ); ?></p>
+<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Home', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#f6f6f6"},"elements":{"link":{"color":{"text":"#f6f6f6"}}}}} -->
-<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Contact Us', 'trend-business' ); ?></p>
+<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Contact Us', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#f6f6f6"},"elements":{"link":{"color":{"text":"#f6f6f6"}}}}} -->
-<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Gallery', 'trend-business' ); ?></p>
+<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Gallery', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
 <div class="wp-block-column has-white-color has-text-color has-link-color"><!-- wp:heading {"style":{"typography":{"fontSize":"21px","fontStyle":"normal","fontWeight":"700"}},"fontFamily":"hind"} -->
-<h2 class="wp-block-heading has-hind-font-family" style="font-size:21px;font-style:normal;font-weight:700"><?php echo esc_html__( 'Informations', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-hind-font-family" style="font-size:21px;font-style:normal;font-weight:700"><?php echo esc_html__( 'Informations', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"},"color":{"text":"#7e7f7c"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-text-color" style="color:#7e7f7c"><!-- wp:paragraph {"style":{"color":{"text":"#f6f6f6"},"elements":{"link":{"color":{"text":"#f6f6f6"}}}}} -->
-<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Shipping Policy', 'trend-business' ); ?></p>
+<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Shipping Policy', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#f6f6f6"},"elements":{"link":{"color":{"text":"#f6f6f6"}}}}} -->
-<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Returns', 'trend-business' ); ?> &amp; <?php echo esc_html__( 'Funds', 'trend-business' ); ?></p>
+<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Returns', 'trend-business-pro' ); ?> &amp; <?php echo esc_html__( 'Funds', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#f6f6f6"},"elements":{"link":{"color":{"text":"#f6f6f6"}}}}} -->
-<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Cookies Policy', 'trend-business' ); ?></p>
+<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Cookies Policy', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#f6f6f6"},"elements":{"link":{"color":{"text":"#f6f6f6"}}}}} -->
-<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Frequently asked', 'trend-business' ); ?></p>
+<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Frequently asked', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
 <div class="wp-block-column has-white-color has-text-color has-link-color"><!-- wp:heading {"style":{"typography":{"fontSize":"21px","fontStyle":"normal","fontWeight":"700"}},"fontFamily":"hind"} -->
-<h2 class="wp-block-heading has-hind-font-family" style="font-size:21px;font-style:normal;font-weight:700"><?php echo esc_html__( 'Links', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-hind-font-family" style="font-size:21px;font-style:normal;font-weight:700"><?php echo esc_html__( 'Links', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"},"color":{"text":"#7e7f7c"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-text-color" style="color:#7e7f7c"><!-- wp:paragraph {"style":{"color":{"text":"#f6f6f6"},"elements":{"link":{"color":{"text":"#f6f6f6"}}}}} -->
-<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'About Us', 'trend-business' ); ?></p>
+<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'About Us', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#f6f6f6"},"elements":{"link":{"color":{"text":"#f6f6f6"}}}}} -->
-<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Privacy Policy', 'trend-business' ); ?></p>
+<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Privacy Policy', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#f6f6f6"},"elements":{"link":{"color":{"text":"#f6f6f6"}}}}} -->
-<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Terms', 'trend-business' ); ?> &amp; <?php echo esc_html__( 'Conditions', 'trend-business' ); ?></p>
+<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Terms', 'trend-business-pro' ); ?> &amp; <?php echo esc_html__( 'Conditions', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#f6f6f6"},"elements":{"link":{"color":{"text":"#f6f6f6"}}}}} -->
-<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Contact Us', 'trend-business' ); ?></p>
+<p class="has-text-color has-link-color" style="color:#f6f6f6"><?php echo esc_html__( 'Contact Us', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
+ <!-- wp:paragraph {"className":"business-scrool-top"} -->
+<p class="business-scrool-top"></p>
+<!-- /wp:paragraph -->
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

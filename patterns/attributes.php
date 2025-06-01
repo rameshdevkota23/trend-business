@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Attributes
- * Slug: trend-business/attributes
- * Categories: trend-business
+ * Slug: trend-business-pro/attributes
+ * Categories: trend-business-pro
  *
  * @package Trend Business
  * @since 1.0.0
@@ -21,11 +21,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"left","style":{"typography":{"fontSize":"21px"}}} -->
-<h2 class="wp-block-heading has-text-align-left" style="font-size:21px"><?php echo esc_html__( 'Free Delivery', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-left" style="font-size:21px"><?php echo esc_html__( 'Free Delivery', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","style":{"typography":{"fontSize":"15px"}}} -->
-<p class="has-text-align-left" style="font-size:15px"><?php echo esc_html__( 'Free shiping on all order', 'trend-business' ); ?></p>
+<p class="has-text-align-left" style="font-size:15px"><?php echo esc_html__( 'Free shipping on all order', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -35,11 +35,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"left","style":{"typography":{"fontSize":"21px"}}} -->
-<h2 class="wp-block-heading has-text-align-left" style="font-size:21px"><?php echo esc_html__( 'Free Delivery', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-left" style="font-size:21px"><?php echo esc_html__( 'Free Delivery', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","style":{"typography":{"fontSize":"15px"}}} -->
-<p class="has-text-align-left" style="font-size:15px"><?php echo esc_html__( 'Free shipping on all order', 'trend-business' ); ?></p>
+<p class="has-text-align-left" style="font-size:15px"><?php echo esc_html__( 'Free shipping on all order', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -49,11 +49,11 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"left","style":{"typography":{"fontSize":"21px"}}} -->
-<h2 class="wp-block-heading has-text-align-left" style="font-size:21px"><?php echo esc_html__( 'Free Delivery', 'trend-business' ); ?></h2>
+<h2 class="wp-block-heading has-text-align-left" style="font-size:21px"><?php echo esc_html__( 'Free Delivery', 'trend-business-pro' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"left","style":{"typography":{"fontSize":"15px"}}} -->
-<p class="has-text-align-left" style="font-size:15px"><?php echo esc_html__( 'Free shipping on all order', 'trend-business' ); ?></p>
+<p class="has-text-align-left" style="font-size:15px"><?php echo esc_html__( 'Free shipping on all order', 'trend-business-pro' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

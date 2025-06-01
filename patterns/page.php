@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Page
- * Slug: trend-business/page
- * Categories: trend-business
+ * Slug: trend-business-pro/page
+ * Categories: trend-business-pro
  *
  * @package Trend Business
  * @since 1.0.0

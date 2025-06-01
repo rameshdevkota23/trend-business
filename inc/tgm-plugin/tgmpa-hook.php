@@ -60,7 +60,16 @@ function vision_fse_register_required_plugins() {
 	 * This theme consists TP Education plugin files that has been used to overwrite the default temeplates to make compatible with this theme.
 	 */
 	$plugins = array(
-
+		array(
+	    	'name'      => esc_html__( 'Essential Blocks', 'trend-business-pro' ),
+	    	'slug'      => 'essential-blocks',
+	    	'required'  => true,
+	    ),
+		array(
+	    	'name'      => esc_html__( 'Blocks Animation', 'trend-business-pro' ),
+	    	'slug'      => 'blocks-animation',
+	    	'required'  => false,
+	    )
 		// This is an example of how to include a plugin from the WordPress Plugin Repository.
 		
 	);
@@ -75,7 +84,7 @@ function vision_fse_register_required_plugins() {
 	 * Only uncomment the strings in the config array if you want to customize the strings.
 	 */
 	$config = array(
-		'id'           => 'trend-business',                 // Unique ID for hashing notices for multiple instances of TGMPA.
+		'id'           => 'trend-business-pro',                 // Unique ID for hashing notices for multiple instances of TGMPA.
 		'default_path' => '',                      // Default absolute path to bundled plugins.
 		'menu'         => 'tgmpa-install-plugins', // Menu slug.
 		'has_notices'  => true,                    // Show admin notices or not.

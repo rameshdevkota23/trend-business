@@ -1,16 +1,16 @@
 /*
-Theme Name: Trend Business
+Theme Name: Trend Business Pro
 Theme URI: https://trendthemeswp.com/products/trend-business/
 Author: Trendthemeswp 
 Author URI: https://trendthemeswp.com
-Description: Trend Business is a modern, full-site editing WordPress theme designed for corporate, consulting, and professional service websites. Built with speed, flexibility, and customization in mind, it empowers businesses to create a strong online presence with ease — no coding required. From startups and agencies to financial firms and service providers, Trend Business adapts seamlessly to your brand with intuitive block-based customization. Compatible with the latest WordPress and plugin ecosystem, it ensures high performance, accessibility, and a fully responsive design. Explore the live demo to see how effortlessly you can build a polished business website.  Check the real demo:  https://demos.trendthemeswp.com/trend-business
+Description: Trend Business Pro is a modern, full-site editing WordPress theme designed for corporate, consulting, and professional service websites. Built with speed, flexibility, and customization in mind, it empowers businesses to create a strong online presence with ease — no coding required. From startups and agencies to financial firms and service providers, Trend Business adapts seamlessly to your brand with intuitive block-based customization. Compatible with the latest WordPress and plugin ecosystem, it ensures high performance, accessibility, and a fully responsive design. Explore the live demo to see how effortlessly you can build a polished business website.  Check the real demo:  https://demos.trendthemeswp.com/trend-business-pro
 Requires at least: 5.9
 Tested up to: 6.8
 Requires PHP: 7.4
-Version: 1.0.2
+Version: 1.0.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Text Domain: trend-business
+Text Domain: trend-business-pro
 Tags: editor-style, full-site-editing, blog, custom-background, custom-logo, custom-menu, e-commerce, featured-images, footer-widgets, left-sidebar, one-column, portfolio, right-sidebar, threaded-comments, translation-ready, two-columns, wide-blocks, full-width-template, sticky-post, theme-options, block-styles, block-patterns
 */
 
@@ -80,8 +80,14 @@ form .wp-block-search__input {
 }
 
 /* submenu css starts here  */
+/* Default padding */
 .wp-block-navigation .wp-block-navigation-item__content.wp-block-navigation-item__content {
 	padding: 15px 15px;
+}
+
+/* Override padding for submenu items */
+.wp-block-navigation__submenu-container.wp-block-navigation-submenu li a.wp-block-navigation-item__content {
+	padding: 5px; /* or 0, or any padding you want for submenu items */
 }
 
 @media screen and (min-width: 1000px) {
@@ -733,12 +739,130 @@ position: relative;
 	box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   }
   .banner-img img{
-    margin-bottom: -102px;
+    margin-top: 40px;
     margin-left: 112px;
   }
   .page-cover{
 	margin-block-start: 0px;
   }
   
+  /* sticky header */
+.wb-header-wrapper.is-sticky {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+    background: white;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+    background: white !important;
+    color: black;
+
+
+}
+@media screen and (max-width: 767px) {
+    .wb-header-wrapper.is-sticky {
+        position: static !important;
+        box-shadow: none !important;
+        transform: none !important;
+        opacity: 1 !important;
+    }
+}
+
+  /* sticky header */
+
+
 /* my css end from here */
 
+/* scrool to top */
+.business-scrool-top::before{
+
+    font-size: 30px;
+    cursor: pointer;
+    background: var(--wp--preset--color--theme); 
+    color: var(--wp--preset--color--link-color);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+    content: '\f077'; 
+    position: fixed;
+    bottom: 50px;
+    right: 30px;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 6px;
+    z-index: 99;
+}
+
+.horizental-line-header{
+	color: #ededed1f;
+}
+
+.contact-icon::before{
+    cursor: pointer;
+    color: var(--wp--preset--color--link-color);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+    content: '\f879';
+	padding-right: 5px;
+}
+.contact-icon::before{
+    cursor: pointer;
+    color: var(--wp--preset--color--link-color);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+    content: '\f879';
+	padding-right: 5px;
+}
+.mail-icon::before{
+    cursor: pointer;
+    color: var(--wp--preset--color--link-color);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+    content: '\f0e0';
+	padding-right: 5px;
+}
+.location-icon::before{
+    cursor: pointer;
+    color: var(--wp--preset--color--link-color);
+    font-family: "Font Awesome 5 Free";
+    font-weight: 600;
+    content: '\f3c5';
+	padding-right: 5px;
+}
+.team-column{
+	box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.title-before{
+	background: #94571B;
+    padding: 1px;
+    color: var(--wp--preset--color--base);
+    border-radius: 7px;
+}
+.ourteam-box {
+  transition: box-shadow 0.5s ease;
+}
+
+.ourteam-box:hover {
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+
+@media (min-width: 601px) {
+    .wp-block-navigation__submenu-container.wp-block-navigation-submenu li:first-child {
+        line-height: 21px;
+ 		padding: 1px !important;
+        border-top: solid var(--wp--preset--color--theme) 2px;
+    }
+
+ 
+
+}
+
+.wp-block-navigation__submenu-icon.wp-block-navigation-submenu__toggle{
+	margin-right: -5px;
+}
+/* scrool to top */
