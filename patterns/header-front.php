@@ -3,7 +3,6 @@
  * Title: Header Front
  * Slug: trend-business/header-front
  * Categories: trend-business
- *
  * @package Trend Business
  * @since 1.0.0
  */

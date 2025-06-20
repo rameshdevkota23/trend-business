@@ -87,8 +87,7 @@ function trend_business_excerpt_length( $length ){
 }
 add_filter( 'excerpt_length', 'trend_business_excerpt_length' );
 
-// tgm-plugin
-require get_template_directory() . '/inc/tgm-plugin/tgmpa-hook.php';
+
 
 // add block patterns
 require get_template_directory() . '/inc/block-patterns.php';
