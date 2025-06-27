@@ -50,13 +50,6 @@ function trend_business_styles() {
 		wp_get_theme()->get( 'Version' )
 	);
 
-	wp_enqueue_style(
-		'trend-business-font-awesome',
-		get_template_directory_uri() . '/assets/css/font-awesome/css/all.css',
-		[],
-		wp_get_theme()->get( 'Version' )
-	);
-
 	wp_enqueue_style( 'dashicons' );
 }
 add_action( 'wp_enqueue_scripts', 'trend_business_styles' );

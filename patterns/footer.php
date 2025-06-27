@@ -21,19 +21,19 @@
 
 <!-- wp:gallery {"columns":2,"linkTo":"none"} -->
 <figure class="wp-block-gallery has-nested-images columns-2 is-cropped"><!-- wp:image {"id":1557,"sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":"var:preset|duotone|primary-contrast"}}} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/images/mobile.jpg" alt="" class="wp-image-1557"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/images/background.jpg" alt="" class="wp-image-1557"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":1556,"sizeSlug":"full","linkDestination":"none","style":{"color":{"duotone":["rgb(151, 52, 98)","#CCC"]}}} -->
-<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/images/watch.jpg" alt="" class="wp-image-1556"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/images/background.jpg" alt="" class="wp-image-1556"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":1556,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":["rgb(85, 30, 30)","#CCC"]}}} -->
-<figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/images/watch.jpg" alt="" class="wp-image-1556"/></figure>
+<figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/images/background.jpg" alt="" class="wp-image-1556"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":1557,"sizeSlug":"large","linkDestination":"none","style":{"color":{"duotone":["rgb(23, 115, 112)","#CCC"]}}} -->
-<figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/images/mobile.jpg" alt="" class="wp-image-1557"/></figure>
+<figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/images/background.jpg" alt="" class="wp-image-1557"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery --></div>
 <!-- /wp:column -->
