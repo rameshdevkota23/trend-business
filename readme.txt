@@ -89,7 +89,10 @@ License: Open Font License
 * Fixed skip issue
 
 
-= 1.0.3 =
+= 1.0.4 =
+* Fixed General issue
+
+= 1.0.5 =
 * Fixed General issue
 
 
