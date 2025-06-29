@@ -13,7 +13,7 @@
 <div class="wp-block-group alignfull wb-header-wrapper has-transparent-background-color has-background" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--40)"><!-- wp:group {"style":{"spacing":{"margin":{"top":"0","bottom":"0"},"padding":{"right":"0","left":"0","top":"0","bottom":"0"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:0;padding-right:0;padding-bottom:0;padding-left:0"><!-- wp:site-title {"style":{"typography":{"fontSize":"32px","fontStyle":"normal","fontWeight":"700"}},"fontFamily":"hind"} /-->
 
-<!-- wp:navigation {"ref":4,"style":{"typography":{"fontSize":"16px","fontStyle":"normal","fontWeight":"700","lineHeight":"1"},"layout":{"selfStretch":"fit","flexSize":null},"spacing":{"blockGap":"9px"}}} /-->
+<!-- wp:navigation {"style":{"typography":{"fontSize":"16px","fontStyle":"normal","fontWeight":"700","lineHeight":"1"},"layout":{"selfStretch":"fit","flexSize":null},"spacing":{"blockGap":"9px"}}} /-->
 
 <!-- wp:buttons -->
 <div class="wp-block-buttons"><!-- wp:button -->
@@ -24,9 +24,9 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:columns {"style":{"spacing":{"padding":{"top":"var:preset|spacing|80","right":"var:preset|spacing|80","left":"var:preset|spacing|80"},"blockGap":{"top":"var:preset|spacing|20","left":"var:preset|spacing|80"}}}} -->
-<div class="wp-block-columns" style="padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--80)"><!-- wp:column {"verticalAlignment":"top","width":"70%","style":{"spacing":{"padding":{"right":"var:preset|spacing|70"}}}} -->
-<div class="wp-block-column is-vertically-aligned-top" style="padding-right:var(--wp--preset--spacing--70);flex-basis:70%"><!-- wp:group {"className":"wb-banner-content","style":{"spacing":{"blockGap":"var:preset|spacing|50","padding":{"top":"0","bottom":"0","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","right":"0","left":"var:preset|spacing|20","bottom":"0"},"blockGap":{"top":"var:preset|spacing|20","left":"var:preset|spacing|80"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center" style="padding-top:var(--wp--preset--spacing--80);padding-right:0;padding-bottom:0;padding-left:var(--wp--preset--spacing--20)"><!-- wp:column {"verticalAlignment":"center","width":"70%","style":{"spacing":{"padding":{"right":"var:preset|spacing|70"}}}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="padding-right:var(--wp--preset--spacing--70);flex-basis:70%"><!-- wp:group {"className":"wb-banner-content","style":{"spacing":{"blockGap":"var:preset|spacing|50","padding":{"top":"0","bottom":"0","left":"var:preset|spacing|40","right":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group wb-banner-content" style="padding-top:0;padding-right:var(--wp--preset--spacing--40);padding-bottom:0;padding-left:var(--wp--preset--spacing--40)"><!-- wp:heading {"style":{"typography":{"fontStyle":"normal","fontWeight":"700","fontSize":"3.5rem","lineHeight":"1.2","letterSpacing":"1px"}},"fontFamily":"hind"} -->
 <h2 class="wp-block-heading has-hind-font-family" style="font-size:3.5rem;font-style:normal;font-weight:700;letter-spacing:1px;line-height:1.2"><?php echo esc_html__('Innovative Solutions', 'trend-business'); ?> <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-theme-color"><?php echo esc_html__('Tomorrow', 'trend-business'); ?></mark>.</h2>
 <!-- /wp:heading -->
@@ -53,8 +53,8 @@
 <!-- /wp:group --></div>
 <!-- /wp:column -->
 
-<!-- wp:column {"width":"30%"} -->
-<div class="wp-block-column" style="flex-basis:30%"><!-- wp:image {"id":31,"sizeSlug":"medium","linkDestination":"none","align":"full","style":{"color":[]}} -->
+<!-- wp:column {"verticalAlignment":"center","width":"30%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30%"><!-- wp:image {"id":31,"sizeSlug":"medium","linkDestination":"none","align":"full","style":{"color":[]}} -->
 <figure class="wp-block-image alignfull size-medium"><img src="<?php echo esc_url( get_template_directory_uri() );?>/assets/images/banner.png" alt="" class="wp-image-31"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
