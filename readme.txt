@@ -3,10 +3,10 @@
 Contributors: trendthemeswp
 Author: Trendthemeswp
 Requires at least: 5.9
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 7.4
-Stable tag: 1.0.1
-Version: 1.0.1
+Stable tag: 1.0.2
+Version: 1.0.2
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Tags: editor-style, right-sidebar, custom-menu, custom-logo, custom-colors, featured-images, block-patterns, sticky-post, threaded-comments
@@ -82,5 +82,7 @@ License: Open Font License
 = 1.0.1 =
 * Fixed Normal issues
 
+= 1.0.2 =
+* General Issues Fixed
 
 * class-tgm-plugin-activation.php https://github.com/TGMPA/TGM-Plugin-Activation [GNU General Public License v2.0]

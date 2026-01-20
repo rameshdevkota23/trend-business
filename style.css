@@ -5,9 +5,9 @@ Author: Trendthemeswp
 Author URI: https://trendthemeswp.com
 Description: Trend Business Pro is a modern, full-site editing WordPress theme designed for corporate, consulting, and professional service websites. Built with speed, flexibility, and customization in mind, it empowers businesses to create a strong online presence with ease — no coding required. From startups and agencies to financial firms and service providers, Trend Business adapts seamlessly to your brand with intuitive block-based customization. Compatible with the latest WordPress and plugin ecosystem, it ensures high performance, accessibility, and a fully responsive design. Explore the live demo to see how effortlessly you can build a polished business website.  Check the real demo:  https://demos.trendthemeswp.com/trend-business-pro
 Requires at least: 5.9
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 7.4
-Version: 1.0.1
+Version: 1.0.2
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: trend-business-pro
@@ -228,8 +228,7 @@ form .wp-block-search__input {
     width: 100%;
     gap: 0;
     margin: 0;
-    padding: 0;
-    display: none;
+    padding: 0; 
     box-shadow: none;
   }
 
